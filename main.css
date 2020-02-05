@@ -1,0 +1,14 @@
+h1 {
+  font-family: Gaegu;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 52px;
+  line-height: 65px;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
